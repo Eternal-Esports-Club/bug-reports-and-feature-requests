@@ -7,8 +7,9 @@ assignees: ''
 
 ---
 
-**describe the bug**
-describe the problem clearly. add pictures if that would help!
+**bug description:**
+describe the bug you're experiencing thoroughly. add screenshots if needed!
 
-**Screenshots**
-if needed.
+---
+
+**screenshots:**
